@@ -1,0 +1,43 @@
+﻿/*
+ * Project:	    A-05 : HI-LO
+ * Author:	    Hoang Phuc Tran - 8789102, Bumsu Yi - 8110678
+ * Date:		November 14, 2022
+ * Description: This includes the css styles of the game
+ */
+body {
+    background-color: orange;
+}
+
+divisionStyle {
+    background-color: orange;
+    text-align: center;
+}
+
+.questionStyle {
+    color: blueviolet;
+    background-color: orange;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    border-width: 0;
+}
+
+.LabelStyle {
+    color: blueviolet;
+    background-color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    border-width: 0;
+    border-bottom-width: 2px;
+}   
+
+.boarderStyle {
+    border-color: orange;
+    border-bottom: solid;
+    border-width: 5px;
+}
+
+.errorMsgStyle {
+    color: red;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+}
